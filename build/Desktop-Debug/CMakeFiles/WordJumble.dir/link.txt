@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/WordJumble.dir/main.cpp.o -o WordJumble 
